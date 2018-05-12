@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '36468'
     url: http://www.gutenberg.org/2009/agents/36468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33551#Memorandum-to-the-Government-of-the-United-States-on-the-Recognition-of-the-Ukrainian-People-_
 gutenberg_issued: '2010-08-27'
 gutenberg_type: Text
 identifiers:
